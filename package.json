@@ -1,0 +1,16 @@
+{
+  "name": "alda-autoplay",
+  "version": "1.0.0",
+  "description": "Convenient tool to play Alda music by simply saving the document",
+  "main": "watcher.js",
+  "scripts": {
+    "start": "node watcher.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^3.0.1",
+    "execute-command-sync": "^1.0.2"
+  }
+}
